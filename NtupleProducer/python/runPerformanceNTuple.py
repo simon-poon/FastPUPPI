@@ -586,3 +586,5 @@ def saveGenCands():
                                            ),
                                       )
     process.p += process.gencandTable
+saveCands()
+saveGenCands()
